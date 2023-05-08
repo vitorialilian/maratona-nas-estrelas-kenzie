@@ -24,7 +24,7 @@ header {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 700px;
     line-height: 37.5px;
     text-align: center;
@@ -57,6 +57,10 @@ nav {
     border-radius: 10px;
     cursor: pointer;
     font-weight: bold;
+}
+
+li > a {
+    color: var(--color-grey-2);
 }
 
 #cardList {
