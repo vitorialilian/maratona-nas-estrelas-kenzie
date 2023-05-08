@@ -57,6 +57,7 @@ nav {
     border-radius: 15px;
     cursor: pointer;
     font-weight: bold;
+    padding: 5px;
 }
 
 li > a {
@@ -66,7 +67,7 @@ li > a {
 li > a:hover {
     color: var(--color-title-1);
     background-color: var(--color-primary);
-    background-size: 20px;
+    border-radius: 5px;
 }
 
 #cardList {
