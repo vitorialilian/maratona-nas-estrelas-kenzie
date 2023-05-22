@@ -48,7 +48,7 @@ async function renderizaCards() {
 
         divVerso.classList.add('face', 'back')
 
-        imagem.src = "/assets/starduck.png"
+        imagem.src = "./assets/starduck.png"
         imagem.alt = "starduck"
 
         listaDados.append(anoNascimento, planeta)
