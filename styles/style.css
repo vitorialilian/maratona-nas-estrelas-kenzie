@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: var(--color-grey-2);
+    background-image: url(../assets/header-bg.png);
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
 
 header {
     height: 519px;
-    background-image: url(/assets/header-bg.png);
+    background-image: url(../assets/header-bg.png);
 }
 
 .header-position {
@@ -137,7 +137,7 @@ li > a:hover {
     border-radius: 5px;
     display: flex;
     flex-direction: column;
-    background-image: url(/assets/card-bg.png);
+    background-image: url(../assets/card-bg.png);
     backface-visibility: hidden;
 }
 
