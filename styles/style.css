@@ -165,7 +165,7 @@ li > a:hover {
 
 footer {
     height: 186px;
-    background-image: url(/assets/footer-bg.png);
+    background-image: url(../assets/footer-bg.png);
     display: flex;
     justify-content: center;
     align-items: center;
