@@ -65,7 +65,7 @@ li > a {
 }
 
 li > a:hover {
-    color: var(--color-title-1);
+    color: var(--color-title-2);
     border-radius: 5px;
 }
 
